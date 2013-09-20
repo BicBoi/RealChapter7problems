@@ -1,0 +1,6 @@
+C:\Users\SlowBen\Documents\GitHub\RealChapter7problems\TestPizza\DisplayHousePlants\bin\Debug\DisplayHousePlants.exe
+C:\Users\SlowBen\Documents\GitHub\RealChapter7problems\TestPizza\DisplayHousePlants\bin\Debug\DisplayHousePlants.pdb
+C:\Users\SlowBen\Documents\GitHub\RealChapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\DisplayHousePlants.Properties.Resources.resources
+C:\Users\SlowBen\Documents\GitHub\RealChapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\HousePlants.csproj.GenerateResource.Cache
+C:\Users\SlowBen\Documents\GitHub\RealChapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\DisplayHousePlants.exe
+C:\Users\SlowBen\Documents\GitHub\RealChapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\DisplayHousePlants.pdb

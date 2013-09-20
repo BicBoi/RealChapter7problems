@@ -1,0 +1,8 @@
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\bin\Debug\DisplayHousePlants.exe
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\bin\Debug\DisplayHousePlants.pdb
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\DisplayHousePlants.Properties.Resources.resources
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\DisplayHousePlants.exe
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\DisplayHousePlants\obj\x86\Debug\DisplayHousePlants.pdb

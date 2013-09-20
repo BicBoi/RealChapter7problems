@@ -1,0 +1,5 @@
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\School\bin\Debug\School.exe
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\School\bin\Debug\School.pdb
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\School\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\School\obj\x86\Debug\School.exe
+C:\Users\EAHS CS\Documents\GitHub\Chapter7problems\TestPizza\School\obj\x86\Debug\School.pdb
