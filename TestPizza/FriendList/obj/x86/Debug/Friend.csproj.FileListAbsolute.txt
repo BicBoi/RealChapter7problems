@@ -1,0 +1,2 @@
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\FriendList\obj\x86\Debug\FriendList.exe
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\FriendList\obj\x86\Debug\FriendList.pdb

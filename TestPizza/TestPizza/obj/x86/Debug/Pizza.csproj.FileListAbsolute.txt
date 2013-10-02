@@ -1,0 +1,8 @@
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\bin\Debug\TestPizza.exe
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\bin\Debug\TestPizza.pdb
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\obj\x86\Debug\TestPizza.exe
+C:\Users\eahscs\Documents\GitHub\RealChapter7problems\TestPizza\TestPizza\obj\x86\Debug\TestPizza.pdb

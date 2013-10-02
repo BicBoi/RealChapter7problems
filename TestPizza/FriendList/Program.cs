@@ -34,8 +34,10 @@ namespace FriendList
 
                 friend[i] = new Friend();
                 friend[i].Name = Name;
+                friend[i].Month = month;
+                friend[i].Day = day;
 
-                Console.WriteLine("Type a friend's name you would like to search.")
+                Console.WriteLine("Type a friend's name you would like to search.");
                 
 
             }
